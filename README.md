@@ -71,3 +71,9 @@ Visit the developer's page to know more about us and contact us. We love to work
 **To know more about our project**, visit us at [TheBeachCombers](http://thebeachcombers.co/)
 
 Regards- [Kartik Agarwal](http://kartikagrawal.in/), [Manan Jain](https://mananjain.xyz/)
+
+## Check Out Our Youtube Video -
+https://youtu.be/8dTxENpORdw
+
+## Presentation of our project -
+https://drive.google.com/file/d/1JbYbYvdxaPYGGKCiuloU1FuoD5YtByOJ/view
