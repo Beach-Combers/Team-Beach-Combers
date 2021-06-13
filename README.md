@@ -62,3 +62,12 @@ You can sign up to our form if you are interested in cleaning beaches in a group
 
 ## Local Beaches 
 With several different beaches easily accessible on foot, chose from sand, rock pools, ledeges, or lagoons for your own personal beach experience.
+
+## Why we need this?
+To overcome the problem of singleness and loneliness of a person, and to overcome the shyness in working with NGOs and volunteering, we need this to overcome all these things. It basically connects you with the right person.
+
+## Who are we?
+Visit the developer's page to know more about us and contact us. We love to work on projects that help improve people's lives and leaves a good impact on this world. 
+**To know more about our project**, visit us at [TheBeachCombers](http://thebeachcombers.co/)
+
+Regards- [Kartik Agarwal](http://kartikagrawal.in/), [Manan Jain](https://mananjain.xyz/)
